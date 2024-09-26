@@ -26,14 +26,13 @@ Picture this:
 -  Edit and preview your CV in your browser without installing anything by creating a codespace. Click the <> **Code** button, then click the **Codespaces** tab, and then click **Create codespace on main**. The environment will be ready for RenderCV usage. Update `.vscode/launch.json` to point to your YAML file and press `F5` to run RenderCV in the browser.
 
 <!-- Remove above in src/markdown/Header.j2.md not in README.md -->
-# John Doe's CV
+# Bryce Du's CV
 
-- Phone: +90 541 999 99 99
-- Email: [youremail@yourdomain.com](mailto:youremail@yourdomain.com)
-- Location: Your Location
-- Website: [yourwebsite.com](https://yourwebsite.com/)
-- LinkedIn: [yourusername](https://linkedin.com/in/yourusername)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Phone: +1 647 804 0712
+- Email: [dubryce@outlook.com](mailto:dubryce@outlook.com)
+- Location: Markham, ON
+- LinkedIn: [bryce-du](https://linkedin.com/in/bryce-du)
+- GitHub: [dbryce712](https://github.com/dbryce712)
 
 
 # Welcome to RenderCV!
@@ -53,7 +52,7 @@ The boilerplate content was inspired by [Gayle McDowell](https://github.com/dnl-
 ## University of Pennsylvania, BS in Computer Science
 
 - Sept 2000 – May 2005
-- GPA: 3.9/4.0 ([Transcript](https://example.com))
+- GPA: 3.9/4.0 ([a link to somewhere](https://example.com))
 - **Coursework:** Computer Architecture, Comparison of Learning Algorithms, Computational Theory
 
 # Experience
