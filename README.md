@@ -35,39 +35,46 @@ Picture this:
 - GitHub: [dbryce712](https://github.com/dbryce712)
 
 
-# Profile
+# Summary
 
-Statistics graduate from the University of Toronto Scarborough interested in applying and further developing capabilities in data science. Versatile skillset that lends itself to multiple types of jobs.
+Results-driven marketing consultant with experience in social media management and business development, complemented by a strong background in IT quality assurance. Adept in automation and software testing and proficient in multiple programming languages and testing frameworks, with a solid foundation in data reporting and analysis. Passionate about leveraging technical expertise and marketing insights to drive business growth.
 
 # Skills
 
 - Languages: C++, C, Python, SQL, JavaScript, R
-- Technologies: Microsoft 365, R Studio, Selenium Framework, HP ALM, PL/SQL Developer, Microsoft TFS, Azure DevOps
-- Other: Communication, Teamwork, Problem-solving
+- Technologies: Microsoft 365, R Studio, Google Suite, Selenium Framework, HP ALM, PL/SQL Developer, Microsoft TFS, Azure DevOps
+- Other: Employee onboarding, Communication, Teamwork, Problem-solving, Adaptability, Conflict resolution, Time management
 # Education
 
 ## University of Toronto, HBSc in Statistics & Political Science
 
-- June 2024
+- Sept 2019 – June 2024
 - **Coursework:** Introduction to Databases and Web Applications, Introduction to Applied Statistics, Introduction to Business
+
+## Jincai High School International Division, IB Diploma Program in International Baccalaureate (IB)
+
+- June 2019
 
 # Experience
 
 ## Be Shine Textile, Junior Marketing Consultant
 
-- May 2023 – Aug 2023
+- Nov 2022 – Dec 2023
 - Markham, ON
 - Created and managed social media accounts, resulting in improved lead generation and traffic for advertising materials by 30%
 - Established rapport with sales prospects, fortified positive long-term relationships, and provided information to customers on benefits of quality textiles in buildings
 - Identified business development opportunities and coordinated with the sales team to develop presentations and sales strategies for reaching customers within service area
+- Coordinated with multiple departments to successfully promote new product launches and reach new customers
 
 ## Ministry of Education, IT QA Assistant
 
-- Jan 2022 – Aug 2022
+- Jan 2021 – Aug 2022
 - Toronto, ON
 - Increased efficiency by writing new automated test scripts that sped up automated software test execution by up to 600%
 - Attained strong proficiency in writing detailed progress reports using Excel that provided a clear understanding of test execution status to managers
 - Utilized ability to learn quickly to become competent in using technologies such as Selenium Framework, HP ALM, PL/SQL Developer, and more to fulfill responsibilities
+- Acted as a mentor in new employee onboarding processes to successfully train recruits in IT QA technologies and workflows
+- Electronically ecorded and maintained up-to-date timelines and agendas to facilitate workplace efficiency
 
 # Projects
 
@@ -77,7 +84,3 @@ Statistics graduate from the University of Toronto Scarborough interested in app
 - Developed custom firmware for use with leverless controllers in competitive fighting games
 - Tools Used: C++, JSON
 
-# Technologies
-
-- Languages: C++, C, Python, SQL, JavaScript, R
-- Technologies: Microsoft 365, R Studio, Selenium Framework, HP ALM, PL/SQL Developer, Microsoft TFS, Azure DevOps
