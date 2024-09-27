@@ -43,7 +43,7 @@ Results-driven marketing consultant with experience in social media management a
 
 - Languages: C++, C, Python, SQL, JavaScript, R
 - Technologies: Microsoft 365, R Studio, Google Suite, Selenium Framework, HP ALM, PL/SQL Developer, Microsoft TFS, Azure DevOps
-- Other: Employee onboarding, Communication, Teamwork, Problem-solving, Adaptability, Conflict resolution, Time management
+- Other: Onboarding, Communication, Teamwork, Problem-solving, Conflict resolution, Time management
 # Education
 
 ## University of Toronto, HBSc in Statistics & Political Science
@@ -74,7 +74,7 @@ Results-driven marketing consultant with experience in social media management a
 - Attained strong proficiency in writing detailed progress reports using Excel that provided a clear understanding of test execution status to managers
 - Utilized ability to learn quickly to become competent in using technologies such as Selenium Framework, HP ALM, PL/SQL Developer, and more to fulfill responsibilities
 - Acted as a mentor in new employee onboarding processes to successfully train recruits in IT QA technologies and workflows
-- Electronically ecorded and maintained up-to-date timelines and agendas to facilitate workplace efficiency
+- Electronically recorded and maintained up-to-date timelines and agendas to facilitate workplace efficiency
 
 # Projects
 
