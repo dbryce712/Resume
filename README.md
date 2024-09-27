@@ -35,30 +35,20 @@ Picture this:
 - GitHub: [dbryce712](https://github.com/dbryce712)
 
 
-# Profile!
+# Profile
 
 Statistics graduate from the University of Toronto Scarborough interested in applying and further developing capabilities in data science. Versatile skillset that lends itself to multiple types of jobs.
 
 # Skills
 
-- Python
-- R
-- R Studio
-- SQL
-- Microsoft 365
-- Communication
-- Teamwork
-- Problem-solving
-- Selenium Framework
-- HP ALM
-- PL/SQL Developer
-- Microsoft TFS
-- Azure DevOps
+- Languages: C++, C, Python, SQL, JavaScript, R
+- Technologies: Microsoft 365, R Studio, Selenium Framework, HP ALM, PL/SQL Developer, Microsoft TFS, Azure DevOps
+- Other: Communication, Teamwork, Problem-solving
 # Education
 
 ## University of Toronto, HBSc in Statistics & Political Science
 
-- Sept 2019 – June 2024
+- June 2024
 - **Coursework:** Introduction to Databases and Web Applications, Introduction to Applied Statistics, Introduction to Business
 
 # Experience
