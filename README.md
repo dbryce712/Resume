@@ -52,7 +52,7 @@ Results-driven marketing consultant with experience in social media management a
 
 ## Jincai High School International Division, IB Diploma Program in International Baccalaureate (IB)
 
-- June 2019
+- Sept 2017 – June 2019
 
 # Experience
 
