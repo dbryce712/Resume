@@ -29,6 +29,7 @@ cv:
       - institution: Jincai High School International Division
         area: International Baccalaureate (IB)
         degree: IB Diploma Program
+        start_date: 2017-09
         end_date: 2019-06
     experience:
       - company: Be Shine Textile
