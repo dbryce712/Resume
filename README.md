@@ -49,7 +49,6 @@ Results-driven marketing consultant with experience in social media management a
 ## University of Toronto, HBSc in Statistics & Political Science
 
 - Sept 2019 – June 2024
-- **Coursework:** Introduction to Databases and Web Applications, Introduction to Applied Statistics, Introduction to Business
 
 ## Jincai High School International Division, IB Diploma Program in International Baccalaureate (IB)
 
