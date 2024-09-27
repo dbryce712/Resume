@@ -64,7 +64,7 @@ Results-driven marketing consultant with experience in social media management a
 - Created and managed social media accounts, resulting in improved lead generation and traffic for advertising materials by 30%
 - Established rapport with sales prospects, fortified positive long-term relationships, and provided information to customers on benefits of quality textiles in buildings
 - Identified business development opportunities and coordinated with the sales team to develop presentations and sales strategies for reaching customers within service area
-- Coordinated with multiple departments to successfully promote new product launches and reach new customers
+- Coordinated with multiple departments to promote new product launches and reach new customers
 
 ## Ministry of Education, IT QA Assistant
 
